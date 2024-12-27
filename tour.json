@@ -3,7 +3,7 @@
         "firstScene": "room-1",
         "sceneFadeDuration": 1000,
         "autoLoad": true,
-        "hotSpotDebug": false
+        "hotSpotDebug": true
     },
     "scenes": {
         "room-1": {
@@ -20,6 +20,18 @@
                     "type": "scene",
                     "text": "Zweiter Raum",
                     "sceneId": "room-2"
+                },
+                {
+                    "pitch": -9.319958854344511,
+                    "yaw": -152.53396219455405,
+                    "type": "info",
+                    "text": "Ein Mensch"
+                },
+                {
+                    "pitch": -23.7316570449988,
+                    "yaw": -44.30197097597966,
+                    "type": "info",
+                    "text": "Gullideckel"
                 }
             ]
         },
@@ -38,6 +50,18 @@
                     "sceneId": "room-1",
                     "targetYaw": -23,
                     "targetPitch": 2
+                },
+                {
+                    "pitch": -3.428487245437527,
+                    "yaw": -73.99378184392208,
+                    "type": "info",
+                    "text": "Auto"
+                },
+                {
+                    "pitch": -1.2345899251884769,
+                    "yaw": -10.321437994616053,
+                    "type": "info",
+                    "text": "Tür"
                 }
             ]
         }
