@@ -3,7 +3,7 @@
         "firstScene": "room-1",
         "sceneFadeDuration": 1000,
         "autoLoad": true,
-        "hotSpotDebug": true
+        "hotSpotDebug": false
     },
     "scenes": {
         "room-1": {
